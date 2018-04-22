@@ -31,12 +31,6 @@ namespace Groceries
             });
 
 
-
-
-
-
-
-
             AppData.currentLists.Add(new GroceryListClass()
             {
                 Name = "Office Stuff",

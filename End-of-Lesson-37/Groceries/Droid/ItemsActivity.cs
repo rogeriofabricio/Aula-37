@@ -94,10 +94,6 @@ namespace Groceries.Droid
         }
 
 
-
-
-
-
         void ItemClicked(object sender, AdapterView.ItemClickEventArgs e)
         {
             ItemClass thisItem = curList.Items[e.Position];

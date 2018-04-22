@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2BF2AB0C-51E2-4841-8E38-61F1342BA108}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppData_iOS.cs">
+    <Files>
+      <File FileName="iOS/AppData_iOS.cs" Line="22" Column="41" />
+      <File FileName="iOS/AlertShow.cs" Line="14" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Groceries.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.nexus_5x" AndroidDesignerPreferredTheme="Theme.Holo.Light.NoActionBar" />
+  <MonoDevelop.Ide.ItemProperties.Groceries HideGettingStarted="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Groceries.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.026A14AF-09AB-4CA2-88A4-540ADDED4027" automaticSigning="False" />
+</Properties>

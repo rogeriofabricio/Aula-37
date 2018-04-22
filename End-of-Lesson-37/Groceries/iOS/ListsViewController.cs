@@ -25,12 +25,38 @@ namespace Groceries.iOS
         {
             base.ViewDidLoad();
 
+            AppData_iOS.GetInstance();
+
             ListsDataSource tableDs = new ListsDataSource(this);
             groceryListTableView.Source = tableDs;
 
             ReloadData();
+
+            FirebaseTest();
         }
 
+
+        void FirebaseTest()
+        {
+            AppData_iOS.auth.CreateUser("rogerio.fabricio@hotmail.com", "rf346737", (user, error) => 
+            {
+                if (error != null)
+                {
+                    AlertShow.Show(this, "Error", error.ToString());
+                    return;
+                }
+                    
+
+                object[] keys = { "key1" };
+                object[] vals = { "val1" };
+
+                NSDictionary myTestDict = NSDictionary.FromObjectsAndKeys(vals, keys);
+
+                AppData_iOS.DataNode.GetChild("test").SetValue<NSDictionary>(myTestDict);
+
+                AlertShow.Show(this, "Success", "Firebase test was a success!");
+            });
+        }
 
 
 
@@ -95,10 +121,6 @@ namespace Groceries.iOS
 
             groceryListTableView.ReloadData();
         }
-
-
-
-
 
 
 

@@ -63,19 +63,6 @@ namespace Groceries.Droid
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
         void DeleteListAlert(object sender, AdapterView.ItemLongClickEventArgs e)
         {
             GroceryListClass toRemove = AppData.currentLists[e.Position];
@@ -108,17 +95,6 @@ namespace Groceries.Droid
                 e.View.Alpha = 1;
             }));
         }
-
-
-
-
-
-
-
-
-
-
-
 
 
         void GotoItems(object sender, AdapterView.ItemClickEventArgs e)

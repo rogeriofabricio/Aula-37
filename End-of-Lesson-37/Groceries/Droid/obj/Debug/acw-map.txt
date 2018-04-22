@@ -1,0 +1,16 @@
+Groceries.Droid.ListsActivity, Groceries.Droid;md5931d7bff749edc98cc58fa834026b205.ListsActivity
+Groceries.Droid.ListsActivity, Groceries.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5931d7bff749edc98cc58fa834026b205.ListsActivity
+Groceries.Droid.ListsActivity;md5931d7bff749edc98cc58fa834026b205.ListsActivity
+groceries.droid.ListsActivity;md5931d7bff749edc98cc58fa834026b205.ListsActivity
+Groceries.Droid.ListRowCustomAdapter, Groceries.Droid;md5931d7bff749edc98cc58fa834026b205.ListRowCustomAdapter
+Groceries.Droid.ListRowCustomAdapter, Groceries.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5931d7bff749edc98cc58fa834026b205.ListRowCustomAdapter
+Groceries.Droid.ListRowCustomAdapter;md5931d7bff749edc98cc58fa834026b205.ListRowCustomAdapter
+groceries.droid.ListRowCustomAdapter;md5931d7bff749edc98cc58fa834026b205.ListRowCustomAdapter
+Groceries.Droid.ItemsActivity, Groceries.Droid;md5931d7bff749edc98cc58fa834026b205.ItemsActivity
+Groceries.Droid.ItemsActivity, Groceries.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5931d7bff749edc98cc58fa834026b205.ItemsActivity
+Groceries.Droid.ItemsActivity;md5931d7bff749edc98cc58fa834026b205.ItemsActivity
+groceries.droid.ItemsActivity;md5931d7bff749edc98cc58fa834026b205.ItemsActivity
+Groceries.Droid.ItemRowListAdapter, Groceries.Droid;md5931d7bff749edc98cc58fa834026b205.ItemRowListAdapter
+Groceries.Droid.ItemRowListAdapter, Groceries.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5931d7bff749edc98cc58fa834026b205.ItemRowListAdapter
+Groceries.Droid.ItemRowListAdapter;md5931d7bff749edc98cc58fa834026b205.ItemRowListAdapter
+groceries.droid.ItemRowListAdapter;md5931d7bff749edc98cc58fa834026b205.ItemRowListAdapter
